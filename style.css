@@ -1,9 +1,4 @@
-html,body{
-    margin: 0;
-}
-#todo,html,body{
-    height: 100%;
-}
+
 .bcolor{
     background-color: rgba(13, 12, 15, 0.247)
 }
