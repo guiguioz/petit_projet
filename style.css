@@ -6,5 +6,11 @@ main{
     width: 100%;
 }
 .logo:hover{
-    cursor: crosshair;
+    cursor: -moz-grabbing;
+}
+.foot{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
 }
